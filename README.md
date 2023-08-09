@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://www.codewars.com/users/bahadirsahin/badges/large?theme=light
+<img src="https://www.codewars.com/users/bahadirsahin/badges/large?theme=light" />
 
 <!--
 **bahadirsahin/bahadirsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
