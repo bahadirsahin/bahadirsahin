@@ -1,6 +1,6 @@
-### Codewars
+### Hi there 👋
+
 <a href="https://www.codewars.com/users/bahadirsahin">Codewars</a>
-<br />
 <img src="https://www.codewars.com/users/bahadirsahin/badges/large?theme=light" />
 
 <!--
