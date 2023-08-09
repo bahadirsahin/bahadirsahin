@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[I'm an inline-style link](https://www.codewars.com/users/bahadirsahin)
+[Codewars](https://www.codewars.com/users/bahadirsahin)
 ![alt text](https://www.codewars.com/users/bahadirsahin/badges/large?theme=light "Codewars Profile")
 
 <!--
