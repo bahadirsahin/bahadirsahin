@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a style="font-size:25px;vertical-align:text-bottom;" href="https://www.codewars.com/users/bahadirsahin">Codewars</a>
-<img src="https://www.codewars.com/users/bahadirsahin/badges/large?theme=light" />
+[I'm an inline-style link](https://www.codewars.com/users/bahadirsahin)
+![alt text](https://www.codewars.com/users/bahadirsahin/badges/large?theme=light "Codewars Profile")
 
 <!--
 **bahadirsahin/bahadirsahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
